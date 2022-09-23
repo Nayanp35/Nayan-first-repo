@@ -1,7 +1,7 @@
 # Nayan-first-repo
-Hey there!
+Hey!
+My name is Nayan Prajapati.
 I'm 22 years old.
-I love coding.
 I was born in India.
 
 # Fun Facts
