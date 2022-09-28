@@ -20,3 +20,5 @@ I was born in India.
 
 ## Favorite dishes
 - Lasagna
+- Pani Puri
+- Pau Bhaji
