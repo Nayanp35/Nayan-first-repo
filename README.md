@@ -17,3 +17,6 @@ I was born in India.
 * Pennsylvania
 * Delaware
 * California
+
+## Favorite dishes
+- Lasagna
